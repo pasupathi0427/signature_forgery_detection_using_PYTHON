@@ -26,7 +26,7 @@ Using one-shot learning for signature forgery detection we can predict whether a
 
 ## Setup
 
--dowload the datasets and upload it the google drive and run the check_forgery.ipynb using google colab
+- Dowload the datasets and upload it the google drive and run the check_forgery.ipynb using google colab
 
 - Download the model [signature_forgery_one_shot.h5](https://drive.google.com/file/d/1Y-JsSxrbGIiOPLcbUOw_YInZdXBYDSMB/view?usp=drive_link) and upload it in your Google Drive
 
